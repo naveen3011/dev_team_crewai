@@ -1,0 +1,112 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Pytest
+.pytest_cache/
+
+# Pipenv
+Pipfile.lock
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Coverage / testing
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+
+# pip wheel cache
+pip-wheel-metadata/
+
+# Environment / secrets
+.env
+.env.*
+.env.local
+.env.production
+GEMINI_API_KEY
+GOOGLE_API_KEY
+API_KEY
+google-credentials.json
+credentials.json
+*.pem
+*.key
+
+# Output / data
+output/
+*.db
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Sphinx
+docs/_build/
+
+# Other
+.vscode/
+
+# Keep local project config out
+.local/
+
+# End of file
