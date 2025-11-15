@@ -22,6 +22,13 @@ crewai install
 
 **Add your `OPENAI_API_KEY` into the `.env` file**
 
+
+## 📖 Blog Article
+
+Read the full step-by-step guide on how this project works:
+
+👉 https://medium.com/@naveen30111/build-a-full-application-with-one-prompt-using-crewai-a61806e6ca0b
+
 - Modify `src/eng_team/config/agents.yaml` to define your agents
 - Modify `src/eng_team/config/tasks.yaml` to define your tasks
 - Modify `src/eng_team/crew.py` to add your own logic, tools and specific args
@@ -52,3 +59,10 @@ For support, questions, or feedback regarding the EngTeam Crew or crewAI.
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
+
+## 📖 Blog Article
+
+Read the full step-by-step guide on how this project works:
+
+👉 https://medium.com/@naveen30111/build-a-full-application-with-one-prompt-using-crewai-a61806e6ca0b
+
